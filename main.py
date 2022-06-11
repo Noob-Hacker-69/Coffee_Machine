@@ -18,7 +18,7 @@ class begin():
         self.req = int(input("select from these and enter the id number of item:- "))
         self.cost = Price[self.req]
         print(f'The Price Of Your Coffee Please {self.cost}')
-        self.inpt = int(input("insert coins:- "))
+        self.inpt = float(input("insert coins:- "))
         if (self.cost == self.inpt):
             print("THANK YOU FOR PERFECT CHANGE :)")
             return True
