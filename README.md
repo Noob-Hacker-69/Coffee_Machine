@@ -7,26 +7,27 @@ this repo contains 3 different files
 #
 3)third one is coffee.py it calls the obects and functions
 #
-#instalation
+# instalation
 #
-#git clone https://github.com/Noob-Hacker-69/Coffee_Machine.git
-#in linux and place 3 files in same folder and open 3 files like a project in your IDE run coffee.py file 
+git clone https://github.com/Noob-Hacker-69/Coffee_Machine.git
+in linux and place 3 files in same folder and open 3 files like a project in your IDE run coffee.py file 
 #
 #or 
 #
-#using terminal cd (cloned location)
-#check there are 3 files namely 
+using terminal cd (cloned location)
+# check there are 3 files namely 
 #
-#main.py 
+main.py 
 #
-#c1art.py
+c1art.py
 #
-#coffee.py
+coffee.py
 #
-#run coffee.py by entering this command python3 coffee.py
+#run coffee.py by entering this command 
+# python3 coffee.py
 
 
-#note
+# note
 i know it can be written in way better than this, but it was my first project with python
 
-#Follow me on INSTAGRAM https://instagram.com/tech._.maniac._.69
+# Follow me on INSTAGRAM https://instagram.com/tech._.maniac._.69
