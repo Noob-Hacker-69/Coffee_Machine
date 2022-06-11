@@ -25,7 +25,7 @@ c1art.py
 #
 coffee.py
 #
-#run coffee.py by entering this command 
+run coffee.py by entering this command 
 python3 coffee.py
 
 
