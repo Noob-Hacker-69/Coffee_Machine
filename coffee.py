@@ -1,12 +1,14 @@
+import coffee
 import main as mn
+status = True
 def start():
     inpt2 = input("HELP ------------------:- \n"
                 "-S -Shutdown,-E -Start :- ")
     inpt2 = inpt2.lower()
     if( inpt2 == "s" ):
-        status = False
+        coffee.status = False
     elif(inpt2 == "e"):
-        status = True
+        coffee.status = True
     else:
         print("")
 
